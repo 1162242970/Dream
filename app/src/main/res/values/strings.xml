@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyPhoto</string>
+    <string name="item_setting">setting</string>
+    <string name="item_delete">delete</string>
+    <string name="nav_call">电话</string>
+    <string name="nav_friends">朋友</string>
+    <string name="nav_location">定位</string>
+    <string name="nav_mail">邮件</string>
+    <string name="nav_task">任务</string>
+    <string name="user_mail">yimin.feng@tinno.com</string>
+    <string name="user_name">yimin</string>
+    <string name="unlogin_text">点击登录</string>
+</resources>
